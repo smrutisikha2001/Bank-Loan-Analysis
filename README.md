@@ -6,6 +6,6 @@ This is a bank loan analysis dashboard/report which focuses mainly on the differ
 It is showing various measures with respect to the information present in the dataset.
 This dashboard mainly gives an overview to the businesses or the client(bank).
 
-![image]()
+![image](https://github.com/smrutisikha2001/Bank-Loan-Analysis-SQL-PowerBI-/blob/6d7e6ee313783d361b7aa72782f418cd5a770e8a/Dashboard%20preview.png)
 
 
