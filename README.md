@@ -10,3 +10,31 @@ The objective is to provide a clear and interactive overview tailored for busine
 
 
 The accuracy and authenticity of the dashboard have been validated by cross-verifying its metrics and values with the results obtained from SQL queries executed on the underlying dataset.
+
+
+
+S – Situation
+"In the banking and finance domain, loan disbursement and recovery are critical operations. However, many organizations struggle with gaining clear visibility into loan performance, borrower risk, and repayment behavior. My project aimed to address this problem by building a Bank Loan Analysis Dashboard that offers actionable insights for stakeholders."
+
+T – Task
+"My objective was to design and develop a comprehensive Power BI dashboard that could help stakeholders:
+	• Monitor KPIs related to loan disbursement and repayments.
+	• Understand patterns across borrower demographics and regions.
+	• Identify high-risk loans and default trends.
+Additionally, I ensured the data was reliable by performing validation and quality checks using SQL."
+
+A – Action
+"I followed a structured approach:
+	1. Data Cleaning & Validation: I used SQL to clean raw loan data, handle nulls, and validate fields like interest rate, funded amount, and loan status.
+	2. Power BI Modeling: I created measures and relationships between tables to support dynamic filtering and drill-down.
+	3. Dashboard Development:
+		○ Summary Dashboard: Highlighted total loan applications, funded amount, average interest rate, DTI, and split between good vs bad loans.
+		○ Overview Dashboard: Provided monthly trends, loan term analysis, employee length impact, regional distribution, loan purposes, and home ownership segmentation.
+		○ Details Dashboard: A holistic view of borrower profiles, repayment patterns, and overall loan portfolio metrics."
+
+R – Result
+"The dashboard provided business users with a user-friendly, interactive tool to:
+	• Quickly assess loan health via KPIs.
+	• Detect risk-prone borrower segments and geographies.
+	• Improve decision-making in approving or rejecting loan applications.
+It increased the transparency of the loan portfolio and helped stakeholders prioritize actions based on data-backed insights."
